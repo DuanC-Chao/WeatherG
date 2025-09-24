@@ -1,0 +1,138 @@
+{
+  "provider_name": "WeatherG_EnvironmentalService",
+  "provider_version": "1.0",
+  "description": "提供全球坐标点的天气和环境参数的综合服务",
+  "base_url": "http://localhost:8081",
+  "tools": [
+    {
+      "name": "get_environmental_parameters",
+      "description": "获取指定坐标的14个关键环境参数，如植被指数(LAI, FVC)、地表温度(LST)、反照率(Albedo)等。",
+      "http_endpoint": {
+        "path": "/api/environmental_parameters",
+        "method": "POST"
+      },
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "latitude": {
+            "type": "number",
+            "description": "查询点的纬度，范围从-90到90"
+          },
+          "longitude": {
+            "type": "number",
+            "description": "查询点的经度，范围从-180到180"
+          },
+          "days_back": {
+            "type": "integer",
+            "description": "从当前日期回溯查询的天数，用于寻找最新的卫星数据。默认为30天",
+            "optional": true
+          }
+        },
+        "required": ["latitude", "longitude"]
+      },
+      "response": {
+        "description": "返回包含14个环境参数及其摘要的JSON对象。",
+        "schema": {
+          "type": "object",
+          "properties": {
+            "status": { "type": "string" },
+            "location": {
+              "type": "object",
+              "properties": {
+                "latitude": { "type": "number" },
+                "longitude": { "type": "number" }
+              }
+            },
+            "summary": {
+              "type": "object",
+              "properties": {
+                "available_parameters": { "type": "integer" },
+                "success_rate": { "type": "string" }
+              }
+            },
+            "target_parameters": {
+              "type": "object",
+              "description": "包含14个关键参数值的对象"
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "get_weather",
+      "description": "获取指定坐标点当前的实时天气信息，包括温度、湿度、气压和天气状况。",
+      "http_endpoint": {
+        "path": "/api/weather",
+        "method": "POST"
+      },
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "latitude": {
+            "type": "number",
+            "description": "查询点的纬度"
+          },
+          "longitude": {
+            "type": "number",
+            "description": "查询点的经度"
+          }
+        },
+        "required": ["latitude", "longitude"]
+      },
+      "response": {
+        "description": "返回包含当前天气信息的JSON对象。",
+        "schema": {
+          "type": "object",
+          "properties": {
+            "weather": {
+              "type": "object",
+              "properties": {
+                "current": {
+                  "type": "object",
+                  "properties": {
+                    "temperature": { "type": "number", "description": "温度(°C)" },
+                    "humidity": { "type": "integer", "description": "湿度(%)" },
+                    "pressure": { "type": "number", "description": "海平面气压(hPa)" },
+                    "description": { "type": "string", "description": "天气描述" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "name": "get_all_data",
+      "description": "获取指定坐标点的天气和所有植被参数的完整原始数据。",
+      "http_endpoint": {
+        "path": "/api/all",
+        "method": "POST"
+      },
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "latitude": {
+            "type": "number",
+            "description": "查询点的纬度"
+          },
+          "longitude": {
+            "type": "number",
+            "description": "查询点的经度"
+          }
+        },
+        "required": ["latitude", "longitude"]
+      },
+      "response": {
+        "description": "返回一个包含天气和植被详细信息的综合JSON对象。",
+        "schema": {
+          "type": "object",
+          "properties": {
+            "weather": { "type": "object" },
+            "vegetation": { "type": "object" }
+          }
+        }
+      }
+    }
+  ]
+} 

@@ -1,0 +1,1901 @@
+{
+  "search_info": {
+    "search_time": "2025-06-11T14:23:33.693633",
+    "search_center": {
+      "lat": 22.552164458,
+      "lng": 114.235332392
+    },
+    "total_facilities": 38,
+    "facility_types": 1,
+    "categories": [
+      "环保设施",
+      "居住设施",
+      "绿地设施",
+      "水体设施",
+      "商业设施",
+      "交通设施",
+      "农业设施"
+    ]
+  },
+  "statistics": {
+    "by_type": {
+      "公共交通设施": 38
+    },
+    "by_category": {
+      "交通设施": 38
+    }
+  },
+  "results": {
+    "公共交通设施": [
+      {
+        "osm_id": "node_5434638830",
+        "osm_type": "node",
+        "osm_internal_id": 5434638830,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "工妇青活动中心",
+        "names": {
+          "name": "工妇青活动中心"
+        },
+        "coordinates": {
+          "lat": 22.5523071,
+          "lng": 114.2317928,
+          "formatted": "22.552307, 114.231793"
+        },
+        "distance": 363.8332464281118,
+        "distance_formatted": "364米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "工妇青活动中心",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "工妇青活动中心",
+          "公共交通": "platform"
+        },
+        "last_modified": "2023-06-23T15:07:13Z",
+        "version": 4,
+        "changeset": 137693117
+      },
+      {
+        "osm_id": "node_5434638829",
+        "osm_type": "node",
+        "osm_internal_id": 5434638829,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "工妇青活动中心",
+        "names": {
+          "name": "工妇青活动中心"
+        },
+        "coordinates": {
+          "lat": 22.55263,
+          "lng": 114.2317424,
+          "formatted": "22.552630, 114.231742"
+        },
+        "distance": 372.2792208427634,
+        "distance_formatted": "372米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "工妇青活动中心",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "工妇青活动中心",
+          "公共交通": "platform"
+        },
+        "last_modified": "2023-06-23T15:07:13Z",
+        "version": 4,
+        "changeset": 137693117
+      },
+      {
+        "osm_id": "node_10984201593",
+        "osm_type": "node",
+        "osm_internal_id": 10984201593,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "海山路总站",
+        "names": {
+          "name": "海山路总站"
+        },
+        "coordinates": {
+          "lat": 22.5558633,
+          "lng": 114.2368457,
+          "formatted": "22.555863, 114.236846"
+        },
+        "distance": 439.6719345610423,
+        "distance_formatted": "440米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "海山路总站",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "海山路总站",
+          "公共交通": "platform"
+        },
+        "last_modified": "2023-06-18T14:27:40Z",
+        "version": 1,
+        "changeset": 137480656
+      },
+      {
+        "osm_id": "node_5226024116",
+        "osm_type": "node",
+        "osm_internal_id": 5226024116,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田中央公园",
+        "names": {
+          "name": "盐田中央公园",
+          "name:zh": "盐田中央公园",
+          "name:en": "Yantian Central Park"
+        },
+        "coordinates": {
+          "lat": 22.5563215,
+          "lng": 114.2344511,
+          "formatted": "22.556321, 114.234451"
+        },
+        "distance": 471.01797977470403,
+        "distance_formatted": "471米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田中央公园",
+          "name:en": "Yantian Central Park",
+          "name:zh": "盐田中央公园",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田中央公园",
+          "英文名称": "Yantian Central Park",
+          "中文名称": "盐田中央公园",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2020-12-23T09:06:20Z",
+        "version": 3,
+        "changeset": 96309301
+      },
+      {
+        "osm_id": "node_5224508229",
+        "osm_type": "node",
+        "osm_internal_id": 5224508229,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田妇幼保健院",
+        "names": {
+          "name": "盐田妇幼保健院",
+          "name:zh": "盐田妇幼保健院",
+          "name:en": "Yantian Maternity & Child Healthcare Hospital"
+        },
+        "coordinates": {
+          "lat": 22.5542959,
+          "lng": 114.2312649,
+          "formatted": "22.554296, 114.231265"
+        },
+        "distance": 480.25104054147005,
+        "distance_formatted": "480米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田妇幼保健院",
+          "name:en": "Yantian Maternity & Child Healthcare Hospital",
+          "name:zh": "盐田妇幼保健院",
+          "note": "B701, B961, M444",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田妇幼保健院",
+          "英文名称": "Yantian Maternity & Child Healthcare Hospital",
+          "中文名称": "盐田妇幼保健院",
+          "note": "B701, B961, M444",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2021-10-18T09:39:31Z",
+        "version": 4,
+        "changeset": 112644080
+      },
+      {
+        "osm_id": "node_5224508230",
+        "osm_type": "node",
+        "osm_internal_id": 5224508230,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田妇幼保健院",
+        "names": {
+          "name": "盐田妇幼保健院",
+          "name:zh": "盐田妇幼保健院",
+          "name:en": "Yantian Maternity & Child Healthcare Hospital"
+        },
+        "coordinates": {
+          "lat": 22.5543914,
+          "lng": 114.2310553,
+          "formatted": "22.554391, 114.231055"
+        },
+        "distance": 504.21380504854426,
+        "distance_formatted": "504米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田妇幼保健院",
+          "name:en": "Yantian Maternity & Child Healthcare Hospital",
+          "name:zh": "盐田妇幼保健院",
+          "note": "B619, B701, B961, M444",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田妇幼保健院",
+          "英文名称": "Yantian Maternity & Child Healthcare Hospital",
+          "中文名称": "盐田妇幼保健院",
+          "note": "B619, B701, B961, M444",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2021-10-18T09:39:31Z",
+        "version": 4,
+        "changeset": 112644080
+      },
+      {
+        "osm_id": "node_5226024117",
+        "osm_type": "node",
+        "osm_internal_id": 5226024117,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田中央公园",
+        "names": {
+          "name": "盐田中央公园",
+          "name:zh": "盐田中央公园",
+          "name:en": "Yantian Central Park"
+        },
+        "coordinates": {
+          "lat": 22.5567858,
+          "lng": 114.2349939,
+          "formatted": "22.556786, 114.234994"
+        },
+        "distance": 515.0440761626526,
+        "distance_formatted": "515米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田中央公园",
+          "name:en": "Yantian Central Park",
+          "name:zh": "盐田中央公园",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田中央公园",
+          "英文名称": "Yantian Central Park",
+          "中文名称": "盐田中央公园",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2021-10-18T09:39:31Z",
+        "version": 4,
+        "changeset": 112644080
+      },
+      {
+        "osm_id": "node_5224868945",
+        "osm_type": "node",
+        "osm_internal_id": 5224868945,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "太平洋住宅区",
+        "names": {
+          "name": "太平洋住宅区",
+          "name:en": "Pacific Residential Area"
+        },
+        "coordinates": {
+          "lat": 22.5513885,
+          "lng": 114.2302285,
+          "formatted": "22.551389, 114.230228"
+        },
+        "distance": 531.184479246768,
+        "distance_formatted": "531米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "highway": "bus_stop",
+          "name": "太平洋住宅区",
+          "name:en": "Pacific Residential Area"
+        },
+        "translated_tags": {
+          "道路": "公交站点",
+          "名称": "太平洋住宅区",
+          "英文名称": "Pacific Residential Area"
+        },
+        "last_modified": "2019-11-04T09:07:41Z",
+        "version": 4,
+        "changeset": 76578122
+      },
+      {
+        "osm_id": "node_5434638831",
+        "osm_type": "node",
+        "osm_internal_id": 5434638831,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "太平洋住宅区",
+        "names": {
+          "name": "太平洋住宅区",
+          "name:en": "Pacific Residential Area"
+        },
+        "coordinates": {
+          "lat": 22.5515561,
+          "lng": 114.2300527,
+          "formatted": "22.551556, 114.230053"
+        },
+        "distance": 546.3866755371865,
+        "distance_formatted": "546米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "太平洋住宅区",
+          "name:en": "Pacific Residential Area",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "太平洋住宅区",
+          "英文名称": "Pacific Residential Area",
+          "公共交通": "platform"
+        },
+        "last_modified": "2018-02-25T08:52:26Z",
+        "version": 2,
+        "changeset": 56654871
+      },
+      {
+        "osm_id": "node_5224508228",
+        "osm_type": "node",
+        "osm_internal_id": 5224508228,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "诗宁大厦",
+        "names": {
+          "name": "诗宁大厦",
+          "name:zh": "诗宁大厦",
+          "name:en": "Shining Building"
+        },
+        "coordinates": {
+          "lat": 22.5537611,
+          "lng": 114.2301474,
+          "formatted": "22.553761, 114.230147"
+        },
+        "distance": 561.2725998194586,
+        "distance_formatted": "561米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "诗宁大厦",
+          "name:en": "Shining Building",
+          "name:zh": "诗宁大厦",
+          "note": "B924, B961",
+          "public_transport": "platform",
+          "ref": "D_HS0005"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "诗宁大厦",
+          "英文名称": "Shining Building",
+          "中文名称": "诗宁大厦",
+          "note": "B924, B961",
+          "公共交通": "platform",
+          "编号": "D_HS0005"
+        },
+        "last_modified": "2023-08-05T09:38:40Z",
+        "version": 3,
+        "changeset": 139471688
+      },
+      {
+        "osm_id": "node_5224508227",
+        "osm_type": "node",
+        "osm_internal_id": 5224508227,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "诗宁大厦",
+        "names": {
+          "name": "诗宁大厦",
+          "name:zh": "诗宁大厦",
+          "name:en": "Shining Building"
+        },
+        "coordinates": {
+          "lat": 22.5538182,
+          "lng": 114.2300139,
+          "formatted": "22.553818, 114.230014"
+        },
+        "distance": 576.2886958980762,
+        "distance_formatted": "576米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "诗宁大厦",
+          "name:en": "Shining Building",
+          "name:zh": "诗宁大厦",
+          "note": "B924, B961",
+          "public_transport": "platform",
+          "ref": "D_HS0006"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "诗宁大厦",
+          "英文名称": "Shining Building",
+          "中文名称": "诗宁大厦",
+          "note": "B924, B961",
+          "公共交通": "platform",
+          "编号": "D_HS0006"
+        },
+        "last_modified": "2023-08-05T09:38:40Z",
+        "version": 3,
+        "changeset": 139471688
+      },
+      {
+        "osm_id": "node_5226024118",
+        "osm_type": "node",
+        "osm_internal_id": 5226024118,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田税务局",
+        "names": {
+          "name": "盐田税务局",
+          "name:zh": "盐田税务局",
+          "name:en": "Yantian Taxation Bureau"
+        },
+        "coordinates": {
+          "lat": 22.5576233,
+          "lng": 114.2363097,
+          "formatted": "22.557623, 114.236310"
+        },
+        "distance": 615.2362490473246,
+        "distance_formatted": "615米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田税务局",
+          "name:en": "Yantian Taxation Bureau",
+          "name:zh": "盐田税务局",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田税务局",
+          "英文名称": "Yantian Taxation Bureau",
+          "中文名称": "盐田税务局",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2020-12-23T09:06:20Z",
+        "version": 5,
+        "changeset": 96309301
+      },
+      {
+        "osm_id": "node_5226024119",
+        "osm_type": "node",
+        "osm_internal_id": 5226024119,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田税务局",
+        "names": {
+          "name": "盐田税务局",
+          "name:zh": "盐田税务局",
+          "name:en": "Yantian Taxation Bureau"
+        },
+        "coordinates": {
+          "lat": 22.5576425,
+          "lng": 114.2367233,
+          "formatted": "22.557643, 114.236723"
+        },
+        "distance": 625.6524399029627,
+        "distance_formatted": "626米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田税务局",
+          "name:en": "Yantian Taxation Bureau",
+          "name:zh": "盐田税务局",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田税务局",
+          "英文名称": "Yantian Taxation Bureau",
+          "中文名称": "盐田税务局",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2023-02-20T11:44:44Z",
+        "version": 6,
+        "changeset": 132787030
+      },
+      {
+        "osm_id": "node_5434638833",
+        "osm_type": "node",
+        "osm_internal_id": 5434638833,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "田东中学",
+        "names": {
+          "name": "田东中学",
+          "name:zh": "田东中学",
+          "name:en": "Tiandong Middle School"
+        },
+        "coordinates": {
+          "lat": 22.5538053,
+          "lng": 114.2291382,
+          "formatted": "22.553805, 114.229138"
+        },
+        "distance": 661.7396760160898,
+        "distance_formatted": "662米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "田东中学",
+          "name:en": "Tiandong Middle School",
+          "name:zh": "田东中学",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "田东中学",
+          "英文名称": "Tiandong Middle School",
+          "中文名称": "田东中学",
+          "公共交通": "platform"
+        },
+        "last_modified": "2020-12-23T09:06:20Z",
+        "version": 3,
+        "changeset": 96309301
+      },
+      {
+        "osm_id": "node_5434638837",
+        "osm_type": "node",
+        "osm_internal_id": 5434638837,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "壹海城",
+        "names": {
+          "name": "壹海城",
+          "name:en": "One City"
+        },
+        "coordinates": {
+          "lat": 22.5581905,
+          "lng": 114.2349643,
+          "formatted": "22.558190, 114.234964"
+        },
+        "distance": 671.1306037825386,
+        "distance_formatted": "671米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bench": "no",
+          "bin": "no",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "lit": "yes",
+          "name": "壹海城",
+          "name:en": "One City",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bench": "no",
+          "bin": "no",
+          "bus": "yes",
+          "道路": "公交站点",
+          "lit": "yes",
+          "名称": "壹海城",
+          "英文名称": "One City",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2021-07-04T14:01:05Z",
+        "version": 7,
+        "changeset": 107391993
+      },
+      {
+        "osm_id": "node_5224868943",
+        "osm_type": "node",
+        "osm_internal_id": 5224868943,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "海涛花园",
+        "names": {
+          "name": "海涛花园",
+          "name:zh": "海涛花园",
+          "name:en": "Haitao Garden"
+        },
+        "coordinates": {
+          "lat": 22.5496762,
+          "lng": 114.2293205,
+          "formatted": "22.549676, 114.229321"
+        },
+        "distance": 676.541797038512,
+        "distance_formatted": "677米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "highway": "bus_stop",
+          "name": "海涛花园",
+          "name:en": "Haitao Garden",
+          "name:zh": "海涛花园"
+        },
+        "translated_tags": {
+          "道路": "公交站点",
+          "名称": "海涛花园",
+          "英文名称": "Haitao Garden",
+          "中文名称": "海涛花园"
+        },
+        "last_modified": "2017-11-12T15:14:22Z",
+        "version": 1,
+        "changeset": 53715355
+      },
+      {
+        "osm_id": "node_5434638832",
+        "osm_type": "node",
+        "osm_internal_id": 5434638832,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "田东中学",
+        "names": {
+          "name": "田东中学",
+          "name:zh": "田东中学",
+          "name:en": "Tiandong Middle School"
+        },
+        "coordinates": {
+          "lat": 22.5537543,
+          "lng": 114.2286981,
+          "formatted": "22.553754, 114.228698"
+        },
+        "distance": 703.8468297044907,
+        "distance_formatted": "704米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "田东中学",
+          "name:en": "Tiandong Middle School",
+          "name:zh": "田东中学",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "田东中学",
+          "英文名称": "Tiandong Middle School",
+          "中文名称": "田东中学",
+          "公共交通": "platform"
+        },
+        "last_modified": "2020-12-23T09:06:20Z",
+        "version": 3,
+        "changeset": 96309301
+      },
+      {
+        "osm_id": "node_8616528811",
+        "osm_type": "node",
+        "osm_internal_id": 8616528811,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田区政府",
+        "names": {
+          "name": "盐田区政府",
+          "name:zh": "盐田区政府",
+          "name:en": "Yantian District Government"
+        },
+        "coordinates": {
+          "lat": 22.5573768,
+          "lng": 114.2313785,
+          "formatted": "22.557377, 114.231379"
+        },
+        "distance": 707.655516923536,
+        "distance_formatted": "708米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "highway": "bus_stop",
+          "name": "盐田区政府",
+          "name:en": "Yantian District Government",
+          "name:zh": "盐田区政府",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "道路": "公交站点",
+          "名称": "盐田区政府",
+          "英文名称": "Yantian District Government",
+          "中文名称": "盐田区政府",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2023-06-20T07:56:36Z",
+        "version": 3,
+        "changeset": 137549587
+      },
+      {
+        "osm_id": "node_5434638836",
+        "osm_type": "node",
+        "osm_internal_id": 5434638836,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "壹海城",
+        "names": {
+          "name": "壹海城",
+          "name:en": "One City"
+        },
+        "coordinates": {
+          "lat": 22.55859,
+          "lng": 114.2349635,
+          "formatted": "22.558590, 114.234964"
+        },
+        "distance": 715.4911803749214,
+        "distance_formatted": "715米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bench": "yes",
+          "bin": "yes",
+          "bus": "yes",
+          "highway": "bus_stop",
+          "lit": "yes",
+          "name": "壹海城",
+          "name:en": "One City",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bench": "yes",
+          "bin": "yes",
+          "bus": "yes",
+          "道路": "公交站点",
+          "lit": "yes",
+          "名称": "壹海城",
+          "英文名称": "One City",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2021-07-04T14:01:09Z",
+        "version": 8,
+        "changeset": 107391993
+      },
+      {
+        "osm_id": "node_6673778602",
+        "osm_type": "node",
+        "osm_internal_id": 6673778602,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "海山",
+        "names": {
+          "name": "海山",
+          "name:zh": "海山",
+          "name:en": "Haishan"
+        },
+        "coordinates": {
+          "lat": 22.5582633,
+          "lng": 114.2328734,
+          "formatted": "22.558263, 114.232873"
+        },
+        "distance": 723.6464761507556,
+        "distance_formatted": "724米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "name": "海山",
+          "name:en": "Haishan",
+          "name:zh": "海山",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        },
+        "translated_tags": {
+          "名称": "海山",
+          "英文名称": "Haishan",
+          "中文名称": "海山",
+          "公共交通": "stop_position",
+          "铁路": "stop",
+          "subway": "yes"
+        },
+        "last_modified": "2024-10-21T16:16:17Z",
+        "version": 6,
+        "changeset": 158177771
+      },
+      {
+        "osm_id": "node_8057913437",
+        "osm_type": "node",
+        "osm_internal_id": 8057913437,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "海山",
+        "names": {
+          "name": "海山",
+          "name:zh": "海山",
+          "name:en": "Haishan"
+        },
+        "coordinates": {
+          "lat": 22.5583269,
+          "lng": 114.2328208,
+          "formatted": "22.558327, 114.232821"
+        },
+        "distance": 732.1633444590211,
+        "distance_formatted": "732米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "name": "海山",
+          "name:en": "Haishan",
+          "name:zh": "海山",
+          "public_transport": "station",
+          "railway": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q96250918"
+        },
+        "translated_tags": {
+          "名称": "海山",
+          "英文名称": "Haishan",
+          "中文名称": "海山",
+          "公共交通": "station",
+          "铁路": "station",
+          "station": "subway",
+          "subway": "yes",
+          "wikidata": "Q96250918"
+        },
+        "last_modified": "2024-10-21T16:16:17Z",
+        "version": 3,
+        "changeset": 158177771
+      },
+      {
+        "osm_id": "node_8616573056",
+        "osm_type": "node",
+        "osm_internal_id": 8616573056,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田区政府",
+        "names": {
+          "name": "盐田区政府",
+          "name:en": "Yantian District Government"
+        },
+        "coordinates": {
+          "lat": 22.5575391,
+          "lng": 114.2311249,
+          "formatted": "22.557539, 114.231125"
+        },
+        "distance": 737.4598718733175,
+        "distance_formatted": "737米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "highway": "bus_stop",
+          "name": "盐田区政府",
+          "name:en": "Yantian District Government",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "道路": "公交站点",
+          "名称": "盐田区政府",
+          "英文名称": "Yantian District Government",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2022-03-14T12:03:50Z",
+        "version": 2,
+        "changeset": 118467394
+      },
+      {
+        "osm_id": "node_3801921968",
+        "osm_type": "node",
+        "osm_internal_id": 3801921968,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "海山",
+        "names": {
+          "name": "海山",
+          "name:zh": "海山",
+          "name:en": "Haishan"
+        },
+        "coordinates": {
+          "lat": 22.5583833,
+          "lng": 114.232785,
+          "formatted": "22.558383, 114.232785"
+        },
+        "distance": 739.3287766104683,
+        "distance_formatted": "739米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "name": "海山",
+          "name:en": "Haishan",
+          "name:zh": "海山",
+          "public_transport": "stop_position",
+          "railway": "stop",
+          "subway": "yes"
+        },
+        "translated_tags": {
+          "名称": "海山",
+          "英文名称": "Haishan",
+          "中文名称": "海山",
+          "公共交通": "stop_position",
+          "铁路": "stop",
+          "subway": "yes"
+        },
+        "last_modified": "2024-10-21T16:16:17Z",
+        "version": 11,
+        "changeset": 158177771
+      },
+      {
+        "osm_id": "node_5207778889",
+        "osm_type": "node",
+        "osm_internal_id": 5207778889,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田产业服务中心",
+        "names": {
+          "name": "盐田产业服务中心",
+          "name:zh": "盐田产业服务中心",
+          "name:en": "Yantian Industry Service Center"
+        },
+        "coordinates": {
+          "lat": 22.5555861,
+          "lng": 114.2287327,
+          "formatted": "22.555586, 114.228733"
+        },
+        "distance": 777.2196255750339,
+        "distance_formatted": "777米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田产业服务中心",
+          "name:en": "Yantian Industry Service Center",
+          "name:zh": "盐田产业服务中心",
+          "note": "308, 358, B701, M444",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田产业服务中心",
+          "英文名称": "Yantian Industry Service Center",
+          "中文名称": "盐田产业服务中心",
+          "note": "308, 358, B701, M444",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2024-04-10T11:05:45Z",
+        "version": 5,
+        "changeset": 149814360
+      },
+      {
+        "osm_id": "node_5434638838",
+        "osm_type": "node",
+        "osm_internal_id": 5434638838,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "香径南街",
+        "names": {
+          "name": "香径南街",
+          "name:zh": "香径南街",
+          "name:en": "Xiangjing South Street"
+        },
+        "coordinates": {
+          "lat": 22.5584201,
+          "lng": 114.2314169,
+          "formatted": "22.558420, 114.231417"
+        },
+        "distance": 803.4437754962279,
+        "distance_formatted": "803米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "香径南街",
+          "name:en": "Xiangjing South Street",
+          "name:zh": "香径南街",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "香径南街",
+          "英文名称": "Xiangjing South Street",
+          "中文名称": "香径南街",
+          "公共交通": "platform"
+        },
+        "last_modified": "2021-04-11T03:15:10Z",
+        "version": 3,
+        "changeset": 102721967
+      },
+      {
+        "osm_id": "node_5434638834",
+        "osm_type": "node",
+        "osm_internal_id": 5434638834,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "东和社区公园",
+        "names": {
+          "name": "东和社区公园",
+          "name:zh": "东和社区公园",
+          "name:en": "Donghe Community Park"
+        },
+        "coordinates": {
+          "lat": 22.5540447,
+          "lng": 114.2275747,
+          "formatted": "22.554045, 114.227575"
+        },
+        "distance": 823.6249437062189,
+        "distance_formatted": "824米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "东和社区公园",
+          "name:en": "Donghe Community Park",
+          "name:zh": "东和社区公园",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "东和社区公园",
+          "英文名称": "Donghe Community Park",
+          "中文名称": "东和社区公园",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2023-01-01T12:00:10Z",
+        "version": 5,
+        "changeset": 130745274
+      },
+      {
+        "osm_id": "node_5207778890",
+        "osm_type": "node",
+        "osm_internal_id": 5207778890,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田产业服务中心",
+        "names": {
+          "name": "盐田产业服务中心",
+          "name:zh": "盐田产业服务中心",
+          "name:en": "Yantian Industry Service Center"
+        },
+        "coordinates": {
+          "lat": 22.5555151,
+          "lng": 114.2281202,
+          "formatted": "22.555515, 114.228120"
+        },
+        "distance": 829.0578880817234,
+        "distance_formatted": "829米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田产业服务中心",
+          "name:en": "Yantian Industry Service Center",
+          "name:zh": "盐田产业服务中心",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田产业服务中心",
+          "英文名称": "Yantian Industry Service Center",
+          "中文名称": "盐田产业服务中心",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2024-04-10T11:05:45Z",
+        "version": 5,
+        "changeset": 149814360
+      },
+      {
+        "osm_id": "node_5434638835",
+        "osm_type": "node",
+        "osm_internal_id": 5434638835,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "东和社区公园",
+        "names": {
+          "name": "东和社区公园",
+          "name:zh": "东和社区公园",
+          "name:en": "Donghe Community Park"
+        },
+        "coordinates": {
+          "lat": 22.5542485,
+          "lng": 114.2275641,
+          "formatted": "22.554248, 114.227564"
+        },
+        "distance": 830.7117576570217,
+        "distance_formatted": "831米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "东和社区公园",
+          "name:en": "Donghe Community Park",
+          "name:zh": "东和社区公园",
+          "public_transport": "platform",
+          "shelter": "no"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "东和社区公园",
+          "英文名称": "Donghe Community Park",
+          "中文名称": "东和社区公园",
+          "公共交通": "platform",
+          "shelter": "no"
+        },
+        "last_modified": "2023-01-01T12:00:10Z",
+        "version": 5,
+        "changeset": 130745274
+      },
+      {
+        "osm_id": "node_5224868942",
+        "osm_type": "node",
+        "osm_internal_id": 5224868942,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "中英街(招呼站)",
+        "names": {
+          "name": "中英街(招呼站)",
+          "name:zh": "中英街(招呼站)",
+          "name:en": "Zhongying Street"
+        },
+        "coordinates": {
+          "lat": 22.5487634,
+          "lng": 114.2277868,
+          "formatted": "22.548763, 114.227787"
+        },
+        "distance": 862.2418097163426,
+        "distance_formatted": "862米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "highway": "bus_stop",
+          "name": "中英街(招呼站)",
+          "name:en": "Zhongying Street",
+          "name:zh": "中英街(招呼站)"
+        },
+        "translated_tags": {
+          "道路": "公交站点",
+          "名称": "中英街(招呼站)",
+          "英文名称": "Zhongying Street",
+          "中文名称": "中英街(招呼站)"
+        },
+        "last_modified": "2023-06-23T04:45:57Z",
+        "version": 2,
+        "changeset": 137670669
+      },
+      {
+        "osm_id": "node_5197989044",
+        "osm_type": "node",
+        "osm_internal_id": 5197989044,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "金融路口",
+        "names": {
+          "name": "金融路口",
+          "name:zh": "金融路口",
+          "name:en": "Jinrong Road Crossing"
+        },
+        "coordinates": {
+          "lat": 22.5515233,
+          "lng": 114.2267645,
+          "formatted": "22.551523, 114.226765"
+        },
+        "distance": 882.7391172332046,
+        "distance_formatted": "883米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "金融路口",
+          "name:en": "Jinrong Road Crossing",
+          "name:zh": "金融路口",
+          "note": "358, B619",
+          "public_transport": "platform",
+          "ref": "DSTJ0047"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "金融路口",
+          "英文名称": "Jinrong Road Crossing",
+          "中文名称": "金融路口",
+          "note": "358, B619",
+          "公共交通": "platform",
+          "编号": "DSTJ0047"
+        },
+        "last_modified": "2022-03-14T12:36:23Z",
+        "version": 3,
+        "changeset": 118468474
+      },
+      {
+        "osm_id": "node_8616573018",
+        "osm_type": "node",
+        "osm_internal_id": 8616573018,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "海山公园",
+        "names": {
+          "name": "海山公园",
+          "name:zh": "海山公园",
+          "name:en": "Haishan Park"
+        },
+        "coordinates": {
+          "lat": 22.5602316,
+          "lng": 114.2351324,
+          "formatted": "22.560232, 114.235132"
+        },
+        "distance": 897.2603241148737,
+        "distance_formatted": "897米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "highway": "bus_stop",
+          "name": "海山公园",
+          "name:en": "Haishan Park",
+          "name:zh": "海山公园",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "道路": "公交站点",
+          "名称": "海山公园",
+          "英文名称": "Haishan Park",
+          "中文名称": "海山公园",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2022-04-26T03:49:56Z",
+        "version": 4,
+        "changeset": 120190689
+      },
+      {
+        "osm_id": "node_8254113754",
+        "osm_type": "node",
+        "osm_internal_id": 8254113754,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "田心小学",
+        "names": {
+          "name": "田心小学",
+          "name:zh": "田心小学",
+          "name:en": "Tianxin Primary School"
+        },
+        "coordinates": {
+          "lat": 22.5541213,
+          "lng": 114.226832,
+          "formatted": "22.554121, 114.226832"
+        },
+        "distance": 899.6261771635006,
+        "distance_formatted": "900米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "highway": "bus_stop",
+          "name": "田心小学",
+          "name:en": "Tianxin Primary School",
+          "name:zh": "田心小学",
+          "note": "85, 103, 205, 387, M437, M520",
+          "public_transport": "platform",
+          "ref": "DSTJ0022",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "道路": "公交站点",
+          "名称": "田心小学",
+          "英文名称": "Tianxin Primary School",
+          "中文名称": "田心小学",
+          "note": "85, 103, 205, 387, M437, M520",
+          "公共交通": "platform",
+          "编号": "DSTJ0022",
+          "shelter": "yes"
+        },
+        "last_modified": "2023-01-01T12:00:10Z",
+        "version": 2,
+        "changeset": 130745274
+      },
+      {
+        "osm_id": "node_5198011230",
+        "osm_type": "node",
+        "osm_internal_id": 5198011230,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "金融路口",
+        "names": {
+          "name": "金融路口",
+          "name:zh": "金融路口",
+          "name:en": "Jinrong Road Crossing"
+        },
+        "coordinates": {
+          "lat": 22.5515382,
+          "lng": 114.2265119,
+          "formatted": "22.551538, 114.226512"
+        },
+        "distance": 908.4682862328608,
+        "distance_formatted": "908米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "金融路口",
+          "name:en": "Jinrong Road Crossing",
+          "name:zh": "金融路口",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "金融路口",
+          "英文名称": "Jinrong Road Crossing",
+          "中文名称": "金融路口",
+          "公共交通": "platform"
+        },
+        "last_modified": "2022-03-14T12:36:23Z",
+        "version": 3,
+        "changeset": 118468474
+      },
+      {
+        "osm_id": "node_8254113759",
+        "osm_type": "node",
+        "osm_internal_id": 8254113759,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "田心小学",
+        "names": {
+          "name": "田心小学",
+          "name:zh": "田心小学",
+          "name:en": "Tianxin Primary School"
+        },
+        "coordinates": {
+          "lat": 22.5541963,
+          "lng": 114.2265371,
+          "formatted": "22.554196, 114.226537"
+        },
+        "distance": 931.0278320840919,
+        "distance_formatted": "931米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "highway": "bus_stop",
+          "name": "田心小学",
+          "name:en": "Tianxin Primary School",
+          "name:zh": "田心小学",
+          "note": "85, 103, 205, 387, B619, M437, M520",
+          "public_transport": "platform",
+          "ref": "DSTJ0023",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "departures_board": "no",
+          "道路": "公交站点",
+          "名称": "田心小学",
+          "英文名称": "Tianxin Primary School",
+          "中文名称": "田心小学",
+          "note": "85, 103, 205, 387, B619, M437, M520",
+          "公共交通": "platform",
+          "编号": "DSTJ0023",
+          "shelter": "yes"
+        },
+        "last_modified": "2023-01-01T12:00:10Z",
+        "version": 3,
+        "changeset": 130745274
+      },
+      {
+        "osm_id": "node_2780554858",
+        "osm_type": "node",
+        "osm_internal_id": 2780554858,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田区政府东",
+        "names": {
+          "name": "盐田区政府东",
+          "name:zh": "盐田区政府东",
+          "name:en": "Yantian District Government East"
+        },
+        "coordinates": {
+          "lat": 22.560361,
+          "lng": 114.2334642,
+          "formatted": "22.560361, 114.233464"
+        },
+        "distance": 931.3854387465992,
+        "distance_formatted": "931米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田区政府东",
+          "name:en": "Yantian District Government East",
+          "name:zh": "盐田区政府东",
+          "public_transport": "platform",
+          "shelter": "yes"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田区政府东",
+          "英文名称": "Yantian District Government East",
+          "中文名称": "盐田区政府东",
+          "公共交通": "platform",
+          "shelter": "yes"
+        },
+        "last_modified": "2022-03-14T12:03:50Z",
+        "version": 4,
+        "changeset": 118467394
+      },
+      {
+        "osm_id": "node_11005709284",
+        "osm_type": "node",
+        "osm_internal_id": 11005709284,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "中英街关前站(招呼站)",
+        "names": {
+          "name": "中英街关前站(招呼站)",
+          "name:zh": "中英街关前站(招呼站)",
+          "name:en": "Zhongying Street Border Station"
+        },
+        "coordinates": {
+          "lat": 22.5494914,
+          "lng": 114.2265049,
+          "formatted": "22.549491, 114.226505"
+        },
+        "distance": 954.0053873407846,
+        "distance_formatted": "954米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "中英街关前站(招呼站)",
+          "name:en": "Zhongying Street Border Station",
+          "name:zh": "中英街关前站(招呼站)",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "中英街关前站(招呼站)",
+          "英文名称": "Zhongying Street Border Station",
+          "中文名称": "中英街关前站(招呼站)",
+          "公共交通": "platform"
+        },
+        "last_modified": "2023-06-25T13:31:46Z",
+        "version": 1,
+        "changeset": 137752871
+      },
+      {
+        "osm_id": "node_5200067906",
+        "osm_type": "node",
+        "osm_internal_id": 5200067906,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "中英街关前站",
+        "names": {
+          "name": "中英街关前站",
+          "name:zh": "中英街关前站",
+          "name:en": "Zhongying Street Border Station"
+        },
+        "coordinates": {
+          "lat": 22.5499669,
+          "lng": 114.2259492,
+          "formatted": "22.549967, 114.225949"
+        },
+        "distance": 994.086553231407,
+        "distance_formatted": "994米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "中英街关前站",
+          "name:en": "Zhongying Street Border Station",
+          "name:zh": "中英街关前站",
+          "public_transport": "platform"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "中英街关前站",
+          "英文名称": "Zhongying Street Border Station",
+          "中文名称": "中英街关前站",
+          "公共交通": "platform"
+        },
+        "last_modified": "2021-09-19T04:01:56Z",
+        "version": 3,
+        "changeset": 111393960
+      },
+      {
+        "osm_id": "node_5999867653",
+        "osm_type": "node",
+        "osm_internal_id": 5999867653,
+        "facility_type": "公共交通设施",
+        "category": "交通设施",
+        "icon": "🚌",
+        "color": "#FF6600",
+        "primary_name": "盐田区政府北",
+        "names": {
+          "name": "盐田区政府北",
+          "name:zh": "盐田区政府北",
+          "name:en": "Yantian District Government North"
+        },
+        "coordinates": {
+          "lat": 22.560531,
+          "lng": 114.2319028,
+          "formatted": "22.560531, 114.231903"
+        },
+        "distance": 994.7467247769212,
+        "distance_formatted": "995米",
+        "geometry": {
+          "type": "node",
+          "has_geometry": false
+        },
+        "contact": {},
+        "time_info": {},
+        "attributes": {},
+        "osm_tags": {
+          "bus": "yes",
+          "highway": "bus_stop",
+          "name": "盐田区政府北",
+          "name:en": "Yantian District Government North",
+          "name:zh": "盐田区政府北",
+          "public_transport": "platform",
+          "shelter": "no"
+        },
+        "translated_tags": {
+          "bus": "yes",
+          "道路": "公交站点",
+          "名称": "盐田区政府北",
+          "英文名称": "Yantian District Government North",
+          "中文名称": "盐田区政府北",
+          "公共交通": "platform",
+          "shelter": "no"
+        },
+        "last_modified": "2022-03-14T12:03:50Z",
+        "version": 2,
+        "changeset": 118467394
+      }
+    ]
+  }
+}
